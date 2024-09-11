@@ -23,4 +23,4 @@ The survey findings highlight the growing importance of salary, work-life balanc
 
 ## Author - Srinivas
 
-This project is part of my portfolio, highlighting the Power BI skills crucial for data analyst roles. If you have any questions, feedback, or are interested in collaborating, please don’t hesitate to reach out!
+This project is a key part of my portfolio, showcasing my expertise in Power BI, which is vital for creating dynamic dashboards and driving data-driven decision-making in data analyst roles. It demonstrates my ability to transform complex datasets into visually compelling and actionable insights.
