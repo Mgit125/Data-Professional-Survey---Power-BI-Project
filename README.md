@@ -16,4 +16,6 @@ This report presents the findings of a survey conducted among 631 data professio
 #### Work-Life Balance
 •	Balancing priorities: Many data professionals expressed challenges in maintaining a healthy work-life balance, particularly due to the demanding nature of their roles and the increasing pressure to deliver results.
 
+### Conclusion
+
 The survey findings highlight the growing importance of salary, work-life balance, and company culture in attracting and retaining top data professionals. By addressing these key areas, companies can create a more positive and fulfilling work environment for their data teams.
