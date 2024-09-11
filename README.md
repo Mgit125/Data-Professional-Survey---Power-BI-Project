@@ -19,3 +19,8 @@ This report presents the findings of a survey conducted among 631 data professio
 ### Conclusion
 
 The survey findings highlight the growing importance of salary, work-life balance, and company culture in attracting and retaining top data professionals. By addressing these key areas, companies can create a more positive and fulfilling work environment for their data teams.
+
+
+## Author - Srinivas
+
+This project is part of my portfolio, highlighting the Power BI skills crucial for data analyst roles. If you have any questions, feedback, or are interested in collaborating, please don’t hesitate to reach out!
